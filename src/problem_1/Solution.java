@@ -1,8 +1,6 @@
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+package problem_1;
+
+import java.util.Scanner;
 
 public class Solution {
 
